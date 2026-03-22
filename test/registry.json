@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Prompt1",
+        "description": "A simple prompt for testing.",
+        "prompt_file": "test/prompt1.txt",
+        "input_variables":["name", "age"]
+    }
+]
