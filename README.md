@@ -1,1 +1,1 @@
-# ai_libs
+Helper libraries for AI.
